@@ -8,6 +8,7 @@ Below you can access the Google Drive folder with all files used in the whole co
 * colab: https://colab.research.google.com/drive/13KCAIRvoEwrvnNgTWyW_eITVjEpnQXdO?usp=sharing
 ## 4. OCR with EAST for natural scenes
 * colab: https://colab.research.google.com/drive/1L_sGCRL6itW_v-Jk3TXNR68UHC39Fbah?usp=sharing
+* model: https://github.com/oyyd/frozen_east_text_detection.pb
 ## 5. Training a custom OCR
 * Custom OCR - training the neural network: https://colab.research.google.com/drive/1XCg816XvnHQHM2aR_VQCD1cd8I-WTUdn?usp=sharing
 * Custom OCR - text recognition: https://colab.research.google.com/drive/1xZnCRQNpdVVooOzQXzzcKG0HVs-17lzb?usp=sharing
